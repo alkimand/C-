@@ -5933,11 +5933,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\SportsStore\\SportsStore.UnitTests\\SportsStore.UnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.UnitTests\\SportsStore.UnitTests.csproj",
       "projectName": "SportsStore.UnitTests",
-      "projectPath": "C:\\Users\\user\\source\\repos\\SportsStore\\SportsStore.UnitTests\\SportsStore.UnitTests.csproj",
+      "projectPath": "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.UnitTests\\SportsStore.UnitTests.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\SportsStore\\SportsStore.UnitTests\\obj\\",
+      "outputPath": "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5956,11 +5956,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\SportsStore\\SportsStore.Domain\\SportsStore.Domain.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\SportsStore\\SportsStore.Domain\\SportsStore.Domain.csproj"
+            "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.Domain\\SportsStore.Domain.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.Domain\\SportsStore.Domain.csproj"
             },
-            "C:\\Users\\user\\source\\repos\\SportsStore\\SportsStore.WebUI\\SportsStore.WebUI.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\SportsStore\\SportsStore.WebUI\\SportsStore.WebUI.csproj"
+            "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.WebUI\\SportsStore.WebUI.csproj": {
+              "projectPath": "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.WebUI\\SportsStore.WebUI.csproj"
             }
           }
         }
