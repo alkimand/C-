@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+/SportsStore/packages/
+/SportsStore/SportsStore.WebUI/bin/
+/SportsStore/SportsStore.Domain/bin/
+/SportsStore/SportsStore.WebUI/App_Data/
+/SportsStore/SportsStore.UnitTests/bin/
+libman.json
