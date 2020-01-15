@@ -381,3 +381,10 @@ C:\Users\user\source\repos\C-Sharp\SportsStore\SportsStore.WebUI\bin\SportsStore
 C:\Users\user\source\repos\C-Sharp\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
 C:\Users\user\source\repos\C-Sharp\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
 C:\Users\user\source\repos\C-Sharp\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\C-Sharp\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.dll
+C:\Users\user\source\repos\C-Sharp\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.dll
+C:\Users\user\source\repos\C-Sharp\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.dll
+C:\Users\user\source\repos\C-Sharp\SportsStore\SportsStore.WebUI\bin\WebGrease.dll
+C:\Users\user\source\repos\C-Sharp\SportsStore\SportsStore.WebUI\bin\Antlr3.Runtime.pdb
+C:\Users\user\source\repos\C-Sharp\SportsStore\SportsStore.WebUI\bin\Newtonsoft.Json.xml
+C:\Users\user\source\repos\C-Sharp\SportsStore\SportsStore.WebUI\bin\System.Web.Optimization.xml
