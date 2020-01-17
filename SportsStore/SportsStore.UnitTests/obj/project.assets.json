@@ -5995,23 +5995,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\stim\\.nuget\\packages\\": {},
+    "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.UnitTests\\SportsStore.UnitTests.csproj",
+      "projectUniqueName": "F:\\temp\\C-Sharp\\SportsStore\\SportsStore.UnitTests\\SportsStore.UnitTests.csproj",
       "projectName": "SportsStore.UnitTests",
-      "projectPath": "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.UnitTests\\SportsStore.UnitTests.csproj",
-      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.UnitTests\\obj\\",
+      "projectPath": "F:\\temp\\C-Sharp\\SportsStore\\SportsStore.UnitTests\\SportsStore.UnitTests.csproj",
+      "packagesPath": "C:\\Users\\stim\\.nuget\\packages\\",
+      "outputPath": "F:\\temp\\C-Sharp\\SportsStore\\SportsStore.UnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\PROGRAM FILES\\DOTNET\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\stim\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6024,11 +6024,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.Domain\\SportsStore.Domain.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.Domain\\SportsStore.Domain.csproj"
+            "F:\\temp\\C-Sharp\\SportsStore\\SportsStore.Domain\\SportsStore.Domain.csproj": {
+              "projectPath": "F:\\temp\\C-Sharp\\SportsStore\\SportsStore.Domain\\SportsStore.Domain.csproj"
             },
-            "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.WebUI\\SportsStore.WebUI.csproj": {
-              "projectPath": "C:\\Users\\user\\source\\repos\\C-Sharp\\SportsStore\\SportsStore.WebUI\\SportsStore.WebUI.csproj"
+            "F:\\temp\\C-Sharp\\SportsStore\\SportsStore.WebUI\\SportsStore.WebUI.csproj": {
+              "projectPath": "F:\\temp\\C-Sharp\\SportsStore\\SportsStore.WebUI\\SportsStore.WebUI.csproj"
             }
           }
         }
